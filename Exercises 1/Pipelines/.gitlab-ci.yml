@@ -1,0 +1,40 @@
+image: docker:20.10.16 #alpine
+
+stages:
+  - build
+  - deploy
+
+before_script:
+  - apk update
+  - apk add --no-cache python3 py3-pip make
+  - pip3 install --no-cache-dir awscli
+
+.services: &services
+  services:
+    - name: docker:dind
+      entrypoint: ["env", "-u", "DOCKER_HOST"]
+      command: ["dockerd-entrypoint.sh"]
+
+build-a:
+    <<: *services
+    stage: build
+    script:
+        - make build_app_back
+        - make push_app_back
+    only:
+        - main
+
+build-b:
+    <<: *services
+    stage: build
+    script:
+        - make build_app_front
+        - make push_app_front
+    only:
+        - main
+
+deploy_ab:
+    <<: *services
+    stage: deploy
+    script:
+        - make update_app_service

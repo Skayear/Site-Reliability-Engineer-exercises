@@ -1,0 +1,9 @@
+backend => puerto 5146
+	-> dotnet run 
+		
+frontend => puerto 4200
+
+-npm install
+-npm build
+
+-npm run start

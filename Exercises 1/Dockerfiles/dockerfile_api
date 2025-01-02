@@ -1,0 +1,14 @@
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS builder
+WORKDIR /app
+COPY ../Api/ ./	
+RUN dotnet build ./WeatherForecastNoHttps.sln -c Release
+RUN dotnet publish -c Release -o ./publishFiles
+
+FROM mcr.microsoft.com/dotnet/aspnet:6.0.6-alpine3.16-amd64
+RUN apk --no-cache add ca-certificates
+WORKDIR /app
+COPY --from=builder /app/publishFiles ./
+ENV ASPNETCORE_URLS=http://localhost:5146
+
+EXPOSE 5146
+CMD [ "dotnet" , "./WeatherForecastNoHttps.dll" ]

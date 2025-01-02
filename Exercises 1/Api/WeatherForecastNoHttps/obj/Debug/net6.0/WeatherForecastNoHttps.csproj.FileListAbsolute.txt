@@ -1,0 +1,54 @@
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/appsettings.Development.json
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/appsettings.json
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.deps.json
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.runtimeconfig.json
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.dll
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.pdb
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.csproj.AssemblyReference.cache
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.GeneratedMSBuildEditorConfig.editorconfig
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.AssemblyInfoInputs.cache
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.AssemblyInfo.cs
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.csproj.CoreCompileInputs.cache
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.MvcApplicationPartsAssemblyInfo.cs
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.MvcApplicationPartsAssemblyInfo.cache
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/staticwebassets.build.json
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/staticwebassets.development.json
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/scopedcss/bundle/WeatherForecastNoHttps.styles.css
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.csproj.CopyComplete
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.dll
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/refint/WeatherForecastNoHttps.dll
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.pdb
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.genruntimeconfig.cache
+/home/pablo/Documents/Projects/DualbootPartners/TemplateProject/Api/WeatherForecastNoHttps/obj/Debug/net6.0/ref/WeatherForecastNoHttps.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/appsettings.Development.json
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/appsettings.json
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.deps.json
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.runtimeconfig.json
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/WeatherForecastNoHttps.pdb
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.csproj.AssemblyReference.cache
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.GeneratedMSBuildEditorConfig.editorconfig
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.AssemblyInfoInputs.cache
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.AssemblyInfo.cs
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.csproj.CoreCompileInputs.cache
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.MvcApplicationPartsAssemblyInfo.cs
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.MvcApplicationPartsAssemblyInfo.cache
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/staticwebassets.build.json
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/staticwebassets.development.json
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/scopedcss/bundle/WeatherForecastNoHttps.styles.css
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.csproj.CopyComplete
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/refint/WeatherForecastNoHttps.dll
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.pdb
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/WeatherForecastNoHttps.genruntimeconfig.cache
+/home/pablo/Documents/Projects/DualbootPartners/Segundo Mes/Pipelines_Exmaple/TempleteProyect/Api/WeatherForecastNoHttps/obj/Debug/net6.0/ref/WeatherForecastNoHttps.dll
