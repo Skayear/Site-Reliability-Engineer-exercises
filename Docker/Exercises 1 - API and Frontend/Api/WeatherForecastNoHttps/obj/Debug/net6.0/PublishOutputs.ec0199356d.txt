@@ -1,0 +1,11 @@
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/WeatherForecastNoHttps
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/appsettings.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/WeatherForecastNoHttps.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/WeatherForecastNoHttps.deps.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/WeatherForecastNoHttps.runtimeconfig.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/WeatherForecastNoHttps.pdb
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

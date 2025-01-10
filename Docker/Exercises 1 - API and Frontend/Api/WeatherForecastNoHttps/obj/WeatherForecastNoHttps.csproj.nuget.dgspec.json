@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/WeatherForecastNoHttps.csproj": {}
+  },
+  "projects": {
+    "/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/WeatherForecastNoHttps.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/WeatherForecastNoHttps.csproj",
+        "projectName": "WeatherForecastNoHttps",
+        "projectPath": "/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/WeatherForecastNoHttps.csproj",
+        "packagesPath": "/home/skayear/.nuget/packages/",
+        "outputPath": "/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/WeatherForecastNoHttps/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/skayear/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.136/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

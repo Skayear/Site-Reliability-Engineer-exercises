@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VRIe7ruPCCH6mTIM2UIein4FpwHc2GFTOr5Swyglwvg=",
+  "Source": "WeatherForecastNoHttps",
+  "BasePath": "_content/WeatherForecastNoHttps",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

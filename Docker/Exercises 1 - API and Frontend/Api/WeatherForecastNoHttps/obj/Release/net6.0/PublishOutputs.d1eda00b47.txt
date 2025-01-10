@@ -1,0 +1,11 @@
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/WeatherForecastNoHttps
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/appsettings.Development.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/appsettings.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/WeatherForecastNoHttps.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/WeatherForecastNoHttps.deps.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/WeatherForecastNoHttps.runtimeconfig.json
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/WeatherForecastNoHttps.pdb
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/Microsoft.OpenApi.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/Swashbuckle.AspNetCore.Swagger.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/skayear/Documents/Projects/Site-Reliability-Engineer-exercises/Docker/Exercises 1 - API and Frontend/Api/publishFiles/Swashbuckle.AspNetCore.SwaggerUI.dll
